@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+
+<script type="text/javascript" src="scrolltopcontrol.js">
+
+/***********************************************
+* Scroll To Top Control script- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* Please keep this notice intact
+* Visit Project Page at http://www.dynamicdrive.com for full source code
+***********************************************/
+
+</script>
+<script type="text/javascript" src="textsizer.js">
+
+/***********************************************
+* Document Text Sizer- Copyright 2003 - Taewook Kang.  All rights reserved.
+* Coded by: Taewook Kang (http://www.txkang.com)
+* This notice must stay intact for use
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+</script>
+<meta content="en-gb" http-equiv="Content-Language" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title>Untitled 1</title>
+<!-- #EndEditable -->
+<style type="text/css">
+.auto-style3 {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #1048B1;
+}
+.auto-style4 {
+	font-size: medium;
+}
+.auto-style5 {
+	background-color: #1048B1;
+}
+.auto-style6 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	text-align: center;
+}
+.auto-style7 {
+	border-width: 0px;
+}
+.auto-style8 {
+	text-align: left;
+}
+.auto-style9 {
+	text-decoration: none;
+}
+Navigation {
+	color: #000000;
+}
+</style>
+</head>
+
+<body>
+
+<table style="width: 100%">
+	<tr>
+		<td colspan="6">
+		<img alt="Hot Beans Web Banner" height="300" src="Banner%20for%20Hot%20Beans%20Web%20new.jpg" width="100%" /></td>
+	</tr>
+	<tr>
+		<td class="auto-style6" style="width: 250px"><strong>
+		<a class="auto-style9" href="Index.html"><span class="auto-style10">Home Page</span></a></strong></td>
+		<td class="auto-style6" style="width: 250px"><strong>
+		<a class="auto-style9" href="HTML%20Hot%20Beans%20Web/Existing%20Trainees.html">
+		<span class="auto-style10">Existing Trainees </span></a> </strong></td>
+		<td class="auto-style6"><strong>
+		<a class="auto-style9" href="HTML%20Hot%20Beans%20Web/Job%20Specifications%20&%20Entry%20requirements.html">
+		<span class="auto-style10">Job Specifications/Entry Requirements</span></a></strong></td>
+		<td class="auto-style6" style="width: 250px">
+		<a class="auto-style9" href="HTML%20Hot%20Beans%20Web/On-Line%20application%20Form.html">
+		<strong><span class="auto-style10">Online Application 
+		Form</span></strong></a></td>
+		<td class="auto-style6" colspan="2"><strong>
+		<a class="auto-style9" href="HTML%20Hot%20Beans%20Web/Web%20Development%20Courses.html">
+		<span class="auto-style10">Web&nbsp; Development Courses</span></a></strong></td>
+	</tr>
+	<tr>
+		<td class="auto-style8" colspan="6" valign="top"><!-- #BeginEditable "Text" --><!-- #EndEditable --></td>
+	</tr>
+	<tr>
+		<td class="auto-style5" style="height: 40px; width: 252px;">
+		<a href="http://www.facebook.com.uk">
+		<img alt="Facebook Logo" class="auto-style7" height="70" src="Facebook.jpg" width="80" /></a></td>
+		<td class="auto-style5" style="height: 40px; width: 250px;">
+		<a href="https://twitter.com/?lang=en">
+		<img alt="Twitter logo" height="70" src="Twitter%20logo%20update%20copy.jpg" width="80" class="auto-style7" /></a></td>
+		<td class="auto-style3" colspan="2" style="height: 40px"><span class="auto-style4">
+		<strong>Email 
+		address:</strong> 
+		<a href="mailto:Nikolahotbeanweb@icloud.com">
+		Nikolahotbeansweb@icloud.com</a></span><br />
+		<strong>Phone: </strong>07624337728<br />
+		<strong>Address: </strong>25 Belfast Road, Belfast</td>
+		<td class="auto-style5" style="height: 40px">
+		<a href="https://Tiktok.co.uk">
+		<img alt="TikTok logo" height="70" src="imgC.jpg" width="80" class="auto-style7" /></a></td>
+		<td class="auto-style5" style="height: 40px">
+		<a href="http://www.instagram.co.uk">
+		<img alt="Instagram Logo" class="auto-style7" height="70" src="Instagram.jpg" width="80" /></a></td>
+	</tr>
+</table>
+
+</body>
+
+</html>
